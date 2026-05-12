@@ -24,6 +24,9 @@ Sigue estos pasos para correr el proyecto localmente:
 ### 1. Base de Datos
 Crea una base de datos en PostgreSQL llamada `tienda_online` y importa la base de datos que esta dentro de los archivos llamado "base de datos.sql"
 y por ultimo ejecutar con:
+
 npm install ts-node --save-dev
+
 npx ts-node src/main.ts
+
 http://localhost:3000/reference
